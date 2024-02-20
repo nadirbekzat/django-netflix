@@ -1,1 +1,2 @@
-This is Netflix Clone Application. Siuuuuuuuuu
+This is Netflix Clone Application.
+It was wriiten using Django and PostgreSQL
