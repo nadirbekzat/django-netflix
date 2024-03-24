@@ -5,3 +5,6 @@ Okay
 Hello
 
 ![Example Image](images/photo1_netflixapp.png)
+![Example Image](images/photo2_netflixapp.png)
+![Example Image](images/photo3_netflixapp.png)
+![Example Image](images/photo4_netflixapp.png)
